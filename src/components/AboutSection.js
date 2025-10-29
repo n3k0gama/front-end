@@ -52,7 +52,7 @@ export default function AboutSection(){
             <div className="bg-[#FFEFB0] rounded-2xl p-6 shadow-md hover:shadow-lg transition transform hover:-translate-y-1">
               <div className="text-3xl mb-3">✏️</div>
               <h4 className="font-semibold text-textDark mb-1 font-poppins">Game Dev</h4>
-              <p className="text-sm text-textGray">Logo, Identity, Print</p>
+              <p className="text-sm text-textGray">godot, unreal engine, unity</p>
             </div>
 
             {/* Skill 4 */}
