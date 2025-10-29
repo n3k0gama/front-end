@@ -1,6 +1,69 @@
-# Getting Started with Create React App
+# Personal Profile Website
+
+A modern and responsive personal portfolio website built with React and Tailwind CSS. This project showcases a clean and professional design perfect for creative designers and frontend developers.
+
+![Website Preview](screenshot/Screenshot%202025-10-29%20101358.png)
+
+## Features
+
+- 🎨 Modern and clean UI design
+- 📱 Fully responsive layout
+- ⚡ Fast and optimized performance
+- 🎯 Clear call-to-action buttons
+- 🔍 SEO friendly
+- 💅 Styled with Tailwind CSS
+
+## Tech Stack
+
+- React.js
+- Tailwind CSS
+- PostCSS
+- Modern JavaScript (ES6+)
+
+## Project Structure
+
+```
+src/
+├── assets/
+│   ├── fonts/
+│   └── images/      # Images and SVG icons
+├── components/
+│   ├── AboutSection.js
+│   ├── Footer.js
+│   ├── navbar.js
+│   └── ProfileCard.js
+└── pages/
+    └── Home.js
+```
+
+## Components
+
+### ProfileCard
+- Main hero section with profile information
+- Social media links
+- Call-to-action buttons
+- Responsive profile image with gradient decoration
+
+### AboutSection
+- Personal introduction and skills
+- Professional background information
+
+### Navbar
+- Responsive navigation
+- Smooth scroll to sections
+
+### Footer
+- Contact information
+- Additional links
+
+## Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
 
 ## Available Scripts
 
@@ -68,3 +131,33 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Customization
+
+### Tailwind Configuration
+The project uses Tailwind CSS for styling. You can customize the theme in `tailwind.config.js`:
+
+- Colors
+- Typography
+- Spacing
+- Breakpoints
+- And more
+
+### Content
+Update the content by modifying the components in the `src/components` directory.
+
+## Contributing
+
+1. Fork the repository
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+This project is open source and available under the MIT License.
+
+## Contact
+
+Project Link: [https://github.com/n3k0gama/front-end](https://github.com/n3k0gama/front-end)
