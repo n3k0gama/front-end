@@ -7,10 +7,10 @@ A modern and responsive personal portfolio website built with React and Tailwind
 ## Screenshots
 
 ### Desktop Preview
-![Desktop Preview](screenshot/Screenshot 2025-10-29 115635.png)
+![Desktop Preview](screenshot/Screenshot%202025-10-29%20115635.png)
 
 ### Mobile Preview
-![Mobile Preview](screenshot/Screenshot 2025-10-29 115706.png)
+![Mobile Preview](screenshot/Screenshot%202025-10-29%20115706.png)
 
 ## Features
 
