@@ -2,7 +2,7 @@
 
 A modern and responsive personal portfolio website built with React and Tailwind CSS. This project showcases a clean and professional design perfect for creative designers and frontend developers.
 
-![Website Preview](screenshot/Screenshot%202025-10-29%20101358.png)
+![Website Preview](Screenshot 2025-10-29 101143.png)
 
 ## Features
 
